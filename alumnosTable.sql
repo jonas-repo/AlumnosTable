@@ -1,4 +1,4 @@
-/*drop schema generation;*/
+
 
 create database generation;
 use generation;
